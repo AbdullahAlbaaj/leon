@@ -23,6 +23,7 @@ This is my first complete HTML/CSS/JS project – a responsive landing page for 
 - ✅ **Clean, Minimal Design** – Focus on content and usability
 
 ## 🚀 Live Demo
+https://abdullahalbaaj.github.io/leon/
 
 ## 📂 Project Structure
 leon-project/
