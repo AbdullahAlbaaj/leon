@@ -93,6 +93,7 @@ header nav .burger {
   justify-content: space-between;
   width: 30px;
   height: 15px;
+  cursor: pointer;
 }
 header nav .burger span {
   display: block;
